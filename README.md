@@ -27,6 +27,7 @@ To deploy this project run
 
 1) Sign in to www.netlify.com and goto Deploys
 2) Drag and drop the site output folder.
+3) https://62a59f731ffcb3374950aaf5--thriving-chimera-9ee9d0.netlify.app/
 
 
 ## Tech Stack
